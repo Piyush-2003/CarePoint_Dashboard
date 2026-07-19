@@ -50,7 +50,7 @@ React · Recharts · Lucide React · JavaScript · CSS-in-JS
 | Project | Link |
 |---|---|
 | Time & Attendance | [view](https://care-point-attendance.vercel.app/) |
-| Recruitment Pipeline | [view](https://your-recruitment-link.vercel.app/) |
+| Recruitment Pipeline | [view](https://care-point-recruitment-svtk.vercel.app/) |
 | Care Home Dashboard | [view](https://care-point-dashboard-dnrn.vercel.app/) |
 
 GitHub: [github.com/Piyush-2003](https://github.com/Piyush-2003)
