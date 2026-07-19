@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Users, AlertCircle, CheckCircle, Home, Clock, TrendingUp, Bell, Shield } from 'lucide-react';
-import { BarChart, Bar, LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Cell, PieChart, Pie } from 'recharts';
+import { BarChart, Bar, LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Cell } from 'recharts';
 
 const NAVY = '#1e3a5f';
 const BLUE = '#2563eb';
